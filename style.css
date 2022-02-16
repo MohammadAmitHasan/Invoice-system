@@ -1,0 +1,56 @@
+body {
+    font-family: "Poppins", sans-serif !important;
+}
+.color1{
+    background-color: rgb(4, 4, 66);
+}
+.color2{
+    background-color: rgb(11, 11, 116);
+}
+
+.color3{
+    background-color: rgb(46, 46, 173);
+}
+
+.card-color{
+    background-color: rgba(0, 0, 0, 0.397);
+}
+.card-title-color{
+    color: rgb(214, 214, 14);
+    font-weight: bold;
+}
+.grand-amount{
+    color: rgb(250, 213, 3);
+    font-weight: bold;
+}
+
+.print-btn{
+    color: rgb(94, 94, 255);
+    background-color: rgb(23, 26, 23);
+    border: 0px;
+    border-radius: 5px;
+    padding: 4px 15px;
+}
+
+.print-button,
+.download-button {
+            color: #1D9AF2;
+            background-color: #292D3E;
+            border: 1px solid #1D9AF2;
+            border-radius: 4px;
+            padding: 0 15px;
+            cursor: pointer;
+            height: 32px;
+            font-size: 14px;
+            transition: all 0.2s ease-in-out;
+        }
+
+        .print-button:hover {
+            box-shadow: 1px 1px #53a7ea, 2px 2px #53a7ea, 3px 3px #53a7ea;
+            transform: translateX(-3px);
+        }
+
+        .download-button:hover {
+            box-shadow: 1px 1px #53a7ea, 2px 2px #53a7ea, 3px 3px #53a7ea;
+            transform: translateX(-3px);
+        }
